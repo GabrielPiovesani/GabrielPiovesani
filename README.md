@@ -8,14 +8,16 @@ Fora do mundo da tecnologia, sou um grande amante da minha família e acredito q
 
 ## Habilidades Técnicas
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- React
-- Java
-- Spring Boot
-- MySQL
+- Banco de Dados: SQL, MySQL, PostgreSQL, MongoDB
+- Frameworks: Spring Framework, Hibernate
+- Linguagens de Consulta: SQL, JPQL, HQL, GraphQL
+- Controle de Versão: Git
+- Web Services: REST
+- Autenticação e Autorização: JWT, OAuth, Spring Security
+- Testes Automatizados: JUnit, Mockito, Jest
+- Cloud Computing: AWS, Azure, Google Cloud Platform
+- Escalabilidade e Desempenho: Caching, Load Balancing, Performance Tuning
+- Arquiteturas: Microservices, RESTful, Serverless
 
 ## Formação Acadêmica
 
